@@ -14,20 +14,17 @@ This is an iOS card game application built with Swift, UIKit and Storyboard.
 - Light Mode and Dark Mode support
 - Landscape and Portrait layout support
 
-
 ## Screenshots
 
-### Main Screen
-![Main Screen](screenshots/main1.png)
+<p align="center">
+  <img src="screenshots/main1.png" width="220">
+  <img src="screenshots/main2.png" width="220">
+</p>
 
-### Main Screen - Dark Mode
-![Main Screen Dark](screenshots/main2.png)
-
-### Game Screen
-![Game Screen](screenshots/game-screen.png)
-
-### Result Screen
-![Result Screen](screenshots/result-screen.png)
+<p align="center">
+  <img src="screenshots/game-screen.png" width="220">
+  <img src="screenshots/result-screen.png" width="220">
+</p>
 
 ## Demo Video
 
